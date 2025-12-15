@@ -34,7 +34,7 @@
         <td align="center">
             <b>🔥 Завершён!</b>
           <br/>
-            <a href="https://habr.com/ru/articles/973468">
+            <a href="https://github.com/zart227">
             <b>Github победителя</b>
           </a>
         </td>
