@@ -53,7 +53,7 @@
 - В этом репозитории собраны:
   - [**Решение автора задачи**](https://github.com/OpenSourceDevsHub/Christmas-Contest-2025/blob/main/Решения/Решение_Автора_Задачи/solution.py)
   - [**Решение победителя конкурса**](https://github.com/OpenSourceDevsHub/Christmas-Contest-2025/tree/main/Решения/Решение_Победителя)
-  - [**Решение победителя конкурса**](https://github.com/OpenSourceDevsHub/Christmas-Contest-2025/tree/main/Решения/Решение_Второго_Победителя)
+  - [**Решение второго победителя конкурса**](https://github.com/OpenSourceDevsHub/Christmas-Contest-2025/tree/main/Решения/Решение_Второго_Победителя)
 
 - Вы можете прислать **своё решение** в виде Pull Request:
   - Создайте папку внутри папки [`Решения`](https://github.com/OpenSourceDevsHub/Christmas-Contest-2025/tree/main/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D1%8F) с именем формата: `Решение_nickname`
